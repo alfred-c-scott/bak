@@ -1,2 +1,2 @@
-# bak
+# Linux configuration files
 configuration files for bash, tmux, etc...
